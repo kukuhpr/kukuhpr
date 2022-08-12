@@ -8,4 +8,4 @@
 
 ## Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-primaditokukuh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:primaditokukuh@gmail.com)](mailto:primaditokukuh@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kukuhprimaditor@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kukuhprimaditor@gmail.com)](mailto:kukuhprimaditor@gmail.com)
