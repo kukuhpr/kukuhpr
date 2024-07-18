@@ -43,3 +43,4 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kukuhpr&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/kukuhpr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kukuhpr&layout=compact&theme=tokyonight)](https://github.com/kukuhpr/github-readme-stats)
+[![Kukuh WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kukuhpr&theme=tokyonight)](https://github.com/kukuhpr/github-readme-stats)
