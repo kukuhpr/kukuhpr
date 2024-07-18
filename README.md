@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/TypeScript-%233178C6?style=plastic&logo=typescript&labelColor=grey
 )
 ![](https://img.shields.io/badge/PHP-%23777BB4?style=plastic&logo=php&labelColor=grey)
-![](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&labelColor=grey)
+![](https://img.shields.io/badge/C%2B%2B-%2300599C?style=plastic&logo=c%2B%2B&labelColor=grey)
 
 #### Framework
 ![](https://img.shields.io/badge/Angular-%230F0F11?style=plastic&logo=angular&labelColor=grey
