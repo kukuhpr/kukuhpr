@@ -1,7 +1,7 @@
 ## Hey 👋,Im Kukuh Primadito Raharjo
 [![Gmail Badge](https://img.shields.io/badge/-kukuhprimaditor@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kukuhprimaditor@gmail.com)](mailto:kukuhprimaditor@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-erpambudi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kukuh-primadito-raharjo)](https://www.linkedin.com/in/kukuh-primadito-raharjo) [![Github Badge](https://img.shields.io/badge/-kukuhpr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kukuhpr/)](https://www.github.com/kukuhpr/) 
-<p align='left'>Arra Araaaa ... Hello my name is Rizki Pambudi from Cilacap, Indonesia. I am very enthusiastic about developing mobile applications using the Flutter Framework.</p>
+[![Linkedin Badge](https://img.shields.io/badge/-kukuhpr-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kukuh-primadito-raharjo)](https://www.linkedin.com/in/kukuh-primadito-raharjo) [![Github Badge](https://img.shields.io/badge/-kukuhpr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kukuhpr/)](https://www.github.com/kukuhpr/) 
+<p align='left'>Hello my name is Kukuh Primadito Raharjo from Purwokerto, Indonesia. I am very enthusiastic about developing web applications using angular, .NET, .Codeigniter 4</p>
 
 
 
