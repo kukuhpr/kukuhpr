@@ -6,30 +6,31 @@
 
 
 ## Tech Stack
-### Programming Language
-![](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=grey)
-![](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&labelColor=grey
+#### Programming Language
+![](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&labelColor=grey)
+![](https://img.shields.io/badge/TypeScript-%233178C6?style=plastic&logo=typescript&labelColor=grey
 )
-![](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=grey)
+![](https://img.shields.io/badge/PHP-%23777BB4?style=plastic&logo=php&labelColor=grey)
 ![](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&labelColor=grey)
 
-### Framework
-![](https://img.shields.io/badge/Angular-%230F0F11?style=for-the-badge&logo=angular&labelColor=grey
+#### Framework
+![](https://img.shields.io/badge/Angular-%230F0F11?style=plastic&logo=angular&labelColor=grey
 )
-![](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=grey
+![](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&labelColor=grey
 )
-![](https://img.shields.io/badge/Codeigniter-%23EF4223?style=for-the-badge&logo=codeigniter&labelColor=grey)
-![](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.net&labelColor=grey)
-![](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring%20boot&labelColor=grey)
+![](https://img.shields.io/badge/Codeigniter-%23EF4223?style=fplastic&logo=codeigniter&labelColor=grey)
+![](https://img.shields.io/badge/.NET-%23512BD4?style=plastic&logo=.net&labelColor=grey)
+![](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=plasticlogo=spring%20boot&labelColor=grey)
 
-### Database
-![](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=grey)
-![](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&labelColor=grey)
-![](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&labelColor=grey)
+#### Database
+![](https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=mysql&labelColor=grey)
+![](https://img.shields.io/badge/SQLite-%23003B57?style=plastic&logo=sqlite&labelColor=grey)
+![](https://img.shields.io/badge/Firebase-%23DD2C00?style=plastic&logo=firebase&labelColor=grey)
 
 
 
 ## Tools
+![](https://img.shields.io/badge/VSCode-%232F80ED?style=plastic&logo=vscodium&labelColor=grey)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kukuhpr alt=kukuhpr /> </p>
