@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=plasticlogo=spring%20boot&logoColor=white&labelColor=grey)
 
 #### Database
-![](https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=mysq&logoColor=whitel&labelColor=grey)
+![](https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/SQLite-%23003B57?style=plastic&logo=sqlite&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/Firebase-%23DD2C00?style=plastic&logo=firebase&logoColor=white&labelColor=grey)
 
@@ -32,8 +32,11 @@
 ## Tools
 ![](https://img.shields.io/badge/VSCode-%232F80ED?style=plastic&logo=vscodium&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/Intellijidea-%23000000?style=plastic&logo=intellijidea&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=plastic&logo=eclipse%20ide&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white&labelColor=grey
 )
+![](https://img.shields.io/badge/Swagger-%2385EA2D?style=plastic&logo=swagger&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/SQL%20Server-%232A2F3D?style=plastic&logo=sql%20server&logoColor=white&labelColor=grey)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kukuhpr alt=kukuhpr /> </p>
