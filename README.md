@@ -1,24 +1,35 @@
 ## Hey 👋,Im Kukuh Primadito Raharjo
 [![Gmail Badge](https://img.shields.io/badge/-kukuhprimaditor@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kukuhprimaditor@gmail.com)](mailto:kukuhprimaditor@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-kukuhpr-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kukuh-primadito-raharjo)](https://www.linkedin.com/in/kukuh-primadito-raharjo) [![Github Badge](https://img.shields.io/badge/-kukuhpr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kukuhpr/)](https://www.github.com/kukuhpr/) 
-<p align='left'>Hello my name is Kukuh Primadito Raharjo from Purwokerto, Indonesia. I am very enthusiastic about developing web applications using angular, .NET, .Codeigniter 4</p>
+<p align='left'>Hello my name is Kukuh Primadito Raharjo from Purwokerto, Indonesia. I am very enthusiastic about developing web applications using Angular, .NET, .Codeigniter 4</p>
 
 
 
-## Technologies & Tools
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=blue)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Json-informational?style=flat&logo=json&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-RESTful_API-informational?style=flat&logo=json&logoColor=white&color=blue)
+## Tech Stack
+# Programming Language
+![](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=grey)
+![](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&labelColor=grey
+)
+![](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=grey)
+![](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&labelColor=grey)
+
+# Framework
+![](https://img.shields.io/badge/Angular-%230F0F11?style=for-the-badge&logo=angular&labelColor=grey
+)
+![](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=grey
+)
+![](https://img.shields.io/badge/Codeigniter-%23EF4223?style=for-the-badge&logo=codeigniter&labelColor=grey)
+![](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.net&labelColor=grey)
+![](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring%20boot&labelColor=grey)
+
+# Database
+![](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=grey)
+![](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&labelColor=grey)
+![](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&labelColor=grey)
+
+
+
+## Tools
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kukuhpr alt=kukuhpr /> </p>
